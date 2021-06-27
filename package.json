@@ -1,0 +1,25 @@
+{
+  "name": "cy_01",
+  "version": "1.0.0",
+  "description": "Testing out cypress as the e2e automation tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkbrodskiy/cypress_exp_01.git"
+  },
+  "keywords": [
+    "vineti"
+  ],
+  "author": "Ark Brodskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkbrodskiy/cypress_exp_01/issues"
+  },
+  "homepage": "https://github.com/arkbrodskiy/cypress_exp_01#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  }
+}
